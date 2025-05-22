@@ -58,7 +58,7 @@ import PropTypes from 'prop-types';
         },
         {
           label: 'Reviews',
-          link: '#reviews',
+          link: '#review',
           className: 'nav-link'
         },
         {

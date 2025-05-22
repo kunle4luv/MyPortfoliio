@@ -57,7 +57,7 @@ const Skill = () => {
     <section className="section">
         <div className="container">
 
-            <h2 className="headline-2">
+            <h2 className="headline-2 reveal-up">
                 Essential Tools I use 
             </h2>
 
@@ -74,6 +74,7 @@ const Skill = () => {
                             imgSrc={imgSrc}
                             label={label}
                             desc={desc}
+                            className="reveal-up"
                         />
                     ))
                 }
